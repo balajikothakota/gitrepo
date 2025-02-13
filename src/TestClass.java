@@ -4,5 +4,6 @@ public class TestClass {
         //added new line
 		System.out.println("test1");
 		System.out.println("test3");
+		System.out.println("test2");
     }
 }
